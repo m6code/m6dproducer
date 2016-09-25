@@ -63,15 +63,15 @@ body.admin-bar .navbar-fixed-top {
 }
 
 :-moz-placeholder {
-    color: #d3d3d3!important;  
+    color: #d3d3d3!important;
 }
 
 ::-moz-placeholder {
-    color: #d3d3d3!important;  
+    color: #d3d3d3!important;
 }
 
-:-ms-input-placeholder {  
-    color: #d3d3d3!important;  
+:-ms-input-placeholder {
+    color: #d3d3d3!important;
 }
 
 .btn-default {
@@ -106,7 +106,7 @@ body.admin-bar .navbar-fixed-top {
 
 /* Navigation */
 .navbar {
-    background: #000;
+    background: #097E7E;
     border-radius: 0;
     margin-bottom: 0;
 }
@@ -136,7 +136,7 @@ body.admin-bar .navbar-fixed-top {
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     text-transform: uppercase;
-    letter-spacing: .29em;  
+    letter-spacing: .29em;
     color: #fff;
 }
 
@@ -150,7 +150,7 @@ body.admin-bar .navbar-fixed-top {
 }
 
 .home-nav .logo-link {
-    font-size: 36px; 
+    font-size: 36px;
     padding: 17px 0;
 }
 
@@ -185,7 +185,7 @@ body.admin-bar .navbar-fixed-top {
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     text-transform: uppercase;
-    letter-spacing: 4px;  
+    letter-spacing: 4px;
 }
 
 .navbar-nav .dropdown-menu>li>a:hover,
@@ -276,7 +276,7 @@ body.page-template-default #main {
     position: absolute;
     right: 0;
     top: 30px;
-    bottom: 30px;  
+    bottom: 30px;
 }
 
 .carousel-caption {
@@ -443,7 +443,7 @@ body.video-playing #main, body.video-playing #footer {
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 2px; 
+    letter-spacing: 2px;
     font-size: 16px;
     display: inline-block;
     vertical-align: middle;
@@ -516,7 +516,7 @@ body.video-playing #main, body.video-playing #footer {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     text-transform: uppercase;
-    letter-spacing: 2px; 
+    letter-spacing: 2px;
     font-size: 15px;
 }
 
@@ -647,7 +647,7 @@ body.page-template-template-tour #main {
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-size: 16px; 
+    font-size: 16px;
 }
 
 .ticket-link, .no-tickets {
@@ -750,7 +750,7 @@ body.page-template-template-tour #main {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     text-transform: uppercase;
-    letter-spacing: 2px; 
+    letter-spacing: 2px;
     font-size: 15px;
 }
 
@@ -810,7 +810,7 @@ body.page-template-template-tour #main {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     text-transform: uppercase;
-    letter-spacing: 2px; 
+    letter-spacing: 2px;
     font-size: 16px;
 }
 
@@ -859,7 +859,7 @@ body.single-photo-gallery .post-nav {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     text-transform: uppercase;
-    letter-spacing: 2px; 
+    letter-spacing: 2px;
     color: #fff;
     font-size: 16px;
 }
@@ -943,7 +943,7 @@ body.single-photo-gallery .fancybox-title .social-share-links {
 }
 
 .fancybox-overlay {
-    background: rgba(0, 0, 0, .9); 
+    background: rgba(0, 0, 0, .9);
 }
 
 .fancybox-photo-wrap {
@@ -976,7 +976,7 @@ body.single-photo-gallery .fancybox-title .social-share-links {
     font-weight: 600;
     font-size: 13px;
     text-transform: uppercase;
-    letter-spacing: 2px; 
+    letter-spacing: 2px;
 }
 
 .news-post-left {
@@ -1026,7 +1026,7 @@ body.single-photo-gallery .fancybox-title .social-share-links {
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 2px; 
+    letter-spacing: 2px;
     font-size: 16px;
 }
 
@@ -1050,8 +1050,8 @@ body.single-photo-gallery .fancybox-title .social-share-links {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     text-transform: uppercase;
-    letter-spacing: 2px; 
-    font-size: 16px;   
+    letter-spacing: 2px;
+    font-size: 16px;
     line-height: 1em;
 }
 
@@ -1514,7 +1514,7 @@ img.aligncenter {
     }
 
     body.home .navbar.home-nav .newsletter-nav a, body.home .navbar.home-nav .follow-nav>li>a,
-    body.page-template-template-home .navbar.home-nav .newsletter-nav a, 
+    body.page-template-template-home .navbar.home-nav .newsletter-nav a,
     body.page-template-template-home .navbar.home-nav .follow-nav>li>a {
         padding: 15px 0;
         text-shadow: 1px 1px #000;
@@ -1522,7 +1522,7 @@ img.aligncenter {
 
     .navbar-right {
         margin-right: 0;
-    }  
+    }
 }
 
 @media (min-width: 1200px) and (max-width: 1499px) {
@@ -1538,7 +1538,7 @@ img.aligncenter {
 
     .home-news-item  {
         width: 50%;
-    }    
+    }
 
     .photo-item {
         width: 25%;
@@ -1582,7 +1582,7 @@ img.aligncenter {
 
     .home-news-item  {
         width: 50%;
-    }    
+    }
 
     .video-item {
         width: 50%;
